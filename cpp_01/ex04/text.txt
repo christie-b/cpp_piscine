@@ -1,0 +1,3 @@
+Hello World,
+This is a text where you can replace a string by another string.
+The strings you enter should not be empty strings.
