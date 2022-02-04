@@ -1,7 +1,5 @@
 # cpp_piscine
 
-[![jaeskim's 42Project Score](https://badge42.herokuapp.com/api/project/cboutier/cpp-module-08)](https://github.com/JaeSeoKim/badge42)
-
 Validated on January 26th, 2022
 
 100/100 
