@@ -4,6 +4,8 @@ Validated on January 26th, 2022
 
 100/100 
 
+Introduction to C++ 98.  
+
 Module 00:  
 100/100 on January 4th, 2022  
 Namespaces, classes, member functions, stdio streams, initialization lists, static, const, and some other basic stuff  
@@ -40,3 +42,9 @@ C++ Templates
 Module 08:  
 100/100 on January 26th, 2022  
 Templated containers, iterators, algorithms  
+
+
+**HOW TO RUN THE PROGRAM**  
+For each module and exercise:  
+`make`  
+You can then execute the executable.
